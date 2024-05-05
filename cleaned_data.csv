@@ -1,0 +1,591 @@
+Date,Description,Category,Cost,Person_spent
+2022-11-02,Halal Chicken,Groceries,21.78,Ganesh Krishna Lakshmisetty
+2022-11-03,American Fast Foods,General,5.19,Sayed Mohammad Sohail
+2022-11-03,Uber_and_Lyft,Taxi,9.66,Surya
+2022-11-03,Household,General,23.72,Sayed Mohammad Sohail
+2022-11-04,Uber_and_Lyft,Taxi,33.01,K Nithin
+2022-11-04,American Fast Foods,Dining out,16.22,K Nithin
+2022-11-04,Household,General,3.75,K Nithin
+2022-11-04,Costco & similar,Household supplies,3.64,K Nithin
+2022-11-05,Walmart,Groceries,2.32,Sayed Mohammad Sohail
+2022-11-05,Walmart,Groceries,51.04,Sayed Mohammad Sohail
+2022-11-05,Movie,General,50.0,Sayed Mohammad Sohail
+2022-11-06,Braums,General,10.69,kanna karthik reddy
+2022-11-06,Indian groceries,Groceries,12.67,kanna karthik reddy
+2022-11-09,Trips and Other Activities,General,81.25,kanna karthik reddy
+2022-11-09,Trips and Other Activities,General,81.25,Sayed Mohammad Sohail
+2022-11-09,Trips and Other Activities,General,81.25,Ganesh Krishna Lakshmisetty
+2022-11-09,Trips and Other Activities,General,81.25,Gurudatta Tej Marupudi
+2022-11-10,American Fast Foods,General,9.07,K Nithin
+2022-11-12,Appliances,General,64.82,K Nithin
+2022-11-12,Indian groceries,Groceries,36.75,Ganesh Krishna Lakshmisetty
+2022-11-14,Halal Chicken,General,20.31,Sayed Mohammad Sohail
+2022-11-14,Braums,General,6.0,kanna karthik reddy
+2022-11-15,Indian restaurants,General,44.94,Ganesh Krishna Lakshmisetty
+2022-11-15,Indian restaurants,Groceries,27.96,Ganesh Krishna Lakshmisetty
+2022-11-15,Movie,General,12.1,Ganesh Krishna Lakshmisetty
+2022-11-15,tempered glass ,General,8.82,Sayed Mohammad Sohail
+2022-11-16,Uber_and_Lyft,Taxi,14.37,K Nithin
+2022-11-16,Uber_and_Lyft,Taxi,15.0,kanna karthik reddy
+2022-11-17,Transportation,General,74.65,K Nithin
+2022-11-18,Walmart,General,6.0,K Nithin
+2022-11-20,Indian groceries,Groceries,47.9,Ganesh Krishna Lakshmisetty
+2022-11-21,Indian restaurants,Dining out,5.99,Ganesh Krishna Lakshmisetty
+2022-11-21,Indian groceries,General,29.45,kanna karthik reddy
+2022-11-21,Braums,General,12.0,Sayed Mohammad Sohail
+2022-11-22,Indian groceries,General,19.99,Sayed Mohammad Sohail
+2022-11-22,Costco & similar,Water,5.36,Sayed Mohammad Sohail
+2022-11-23,Walmart,Household supplies,66.46,K Nithin
+2022-11-24,American Fast Foods,Groceries,8.61,Ganesh Krishna Lakshmisetty
+2022-11-24,American Fast Foods,Groceries,7.61,Ganesh Krishna Lakshmisetty
+2022-11-24,Costco & similar,Household supplies,85.61,K Nithin
+2022-11-27,Milk and Beverages,General,14.97,Gurudatta Tej Marupudi
+2022-11-28,Milk and Beverages,Groceries,7.96,kanna karthik reddy
+2022-11-29,Milk and Beverages,General,206.49,Sayed Mohammad Sohail
+2022-12-01,Indian groceries,General,20.34,K Nithin
+2022-12-01,Walmart,Groceries,59.49,Ganesh Krishna Lakshmisetty
+2022-12-01,temple ,General,77.31,K Nithin
+2022-12-02,toll ,Transportation - Other,8.68,kanna karthik reddy
+2022-12-02,Household,General,50.0,Sayed Mohammad Sohail
+2022-12-03,Indian groceries,General,22.5,Gurudatta Tej Marupudi
+2022-12-05,Walmart,Groceries,15.73,Surya
+2022-12-06,Braums,General,12.0,Gurudatta Tej Marupudi
+2022-12-11,Indian restaurants,General,42.76,Sayed Mohammad Sohail
+2022-12-13,American Fast Foods,Groceries,12.53,Sayed Mohammad Sohail
+2022-12-13,American Fast Foods,Dining out,10.5,Gurudatta Tej Marupudi
+2022-12-13,Indian groceries,Groceries,86.09,Ganesh Krishna Lakshmisetty
+2022-12-13,Indian groceries,General,14.54,kanna karthik reddy
+2022-12-14,Indian restaurants,General,47.42,K Nithin
+2022-12-14,guru walmart ,Household supplies,16.6,Sayed Mohammad Sohail
+2022-12-14,Indian restaurants,General,16.24,K Nithin
+2022-12-14,Costco & similar,Groceries,3.01,Sayed Mohammad Sohail
+2022-12-14,Walmart,General,7.92,Sayed Mohammad Sohail
+2022-12-14,kroger ,Groceries,13.76,K Nithin
+2022-12-14,Walmart,Groceries,42.45,Sayed Mohammad Sohail
+2022-12-17,Indian groceries,General,9.77,K Nithin
+2022-12-21,American Fast Foods,General,7.45,Sayed Mohammad Sohail
+2022-12-21,Fries,General,3.46,Sayed Mohammad Sohail
+2022-12-23,avatar ,General,81.18,Gurudatta Tej Marupudi
+2022-12-23,Walmart,Household supplies,50.5,Gurudatta Tej Marupudi
+2022-12-23,Milk and Beverages,Groceries,9.3,K Nithin
+2022-12-23,insurance ,Insurance,80.0,K Nithin
+2022-12-23,Milk and Beverages,Groceries,7.2,kanna karthik reddy
+2022-12-23,cheese cake ,Groceries,26.97,kanna karthik reddy
+2022-12-23,Walmart,Household supplies,23.39,Sayed Mohammad Sohail
+2022-12-23,Walmart,General,1.98,Sayed Mohammad Sohail
+2022-12-24,Trips and Other Activities,General,59.35,K Nithin
+2022-12-25,Indian groceries,Groceries,48.51,Sayed Mohammad Sohail
+2022-12-25,braums ,General,23.05,kanna karthik reddy
+2022-12-25,Milk and Beverages,Liquor,23.0,kanna karthik reddy
+2022-12-26,Indian groceries,Groceries,52.55,Ganesh Krishna Lakshmisetty
+2022-12-26,water case ,Water,5.99,Sayed Mohammad Sohail
+2022-12-28,Walmart,General,29.65,Sayed Mohammad Sohail
+2022-12-29,Household,General,8.66,K Nithin
+2022-12-31,Milk and Beverages,General,111.14,Gurudatta Tej Marupudi
+2023-01-01,Uber_and_Lyft,Taxi,21.0,kanna karthik reddy
+2023-01-01,Halal Chicken,Groceries,9.43,kanna karthik reddy
+2023-01-01,Milk and Beverages,Dining out,16.05,kanna karthik reddy
+2023-01-01,Trips and Other Activities,General,20.0,K Nithin
+2023-01-01,Braums,General,26.74,K Nithin
+2023-01-01,Walmart,Household supplies,20.74,Surya
+2023-01-01,Indian groceries,Groceries,33.08,Gurudatta Tej Marupudi
+2023-01-01,Walmart,General,9.08,Gurudatta Tej Marupudi
+2023-01-02,Household,General,20.86,Sayed Mohammad Sohail
+2023-01-07,Costco & similar,Household supplies,37.17,Gurudatta Tej Marupudi
+2023-01-09,Milk and Beverages,Groceries,17.0,Sayed Mohammad Sohail
+2023-01-09,Indian groceries,General,6.99,Sayed Mohammad Sohail
+2023-01-09,Indian groceries,Dining out,53.49,Sayed Mohammad Sohail
+2023-01-09,Household,General,1.79,Sayed Mohammad Sohail
+2023-01-09,Household,General,3.98,Sayed Mohammad Sohail
+2023-01-10,oasis lake and gas ,Gas/fuel,81.4,kanna karthik reddy
+2023-01-10,Indian restaurants,General,10.81,Sayed Mohammad Sohail
+2023-01-10,Trips and Other Activities,Parking,14.99,kanna karthik reddy
+2023-01-10,Trips and Other Activities,General,128.36,kanna karthik reddy
+2023-01-10,Braums,General,5.98,kanna karthik reddy
+2023-01-10,reddy dabha ,General,51.96,Sayed Mohammad Sohail
+2023-01-10,Indian restaurants,General,81.0,Sayed Mohammad Sohail
+2023-01-10,austin tropical drink ,Liquor,24.0,Sayed Mohammad Sohail
+2023-01-10,Indian restaurants,Groceries,8.5,Gurudatta Tej Marupudi
+2023-01-10,Gas,Gas/fuel,30.0,K Nithin
+2023-01-10,Trips and Other Activities,General,54.12,K Nithin
+2023-01-10,dunkin' ,Dining out,7.99,K Nithin
+2023-01-10,Indian restaurants,General,20.0,K Nithin
+2023-01-10,Walmart,Household supplies,42.52,K Nithin
+2023-01-11,Trips and Other Activities,General,24.0,K Nithin
+2023-01-11,Indian restaurants,General,72.97,Sayed Mohammad Sohail
+2023-01-13,Walmart,Household supplies,26.17,Surya
+2023-01-16,Uber_and_Lyft,Taxi,23.96,K Nithin
+2023-01-16,Indian groceries,Groceries,19.17,K Nithin
+2023-01-16,Chocolates,Household supplies,15.68,Ganesh Krishna Lakshmisetty
+2023-01-16,Indian restaurants,General,28.78,kanna karthik reddy
+2023-01-16,Indian groceries,Groceries,55.91,Ganesh Krishna Lakshmisetty
+2023-01-16,Walmart,Household supplies,28.49,Ganesh Krishna Lakshmisetty
+2023-01-18,American Fast Foods,Groceries,10.5,kanna karthik reddy
+2023-01-18,Walmart,General,49.5,kanna karthik reddy
+2023-01-18,American Fast Foods,Dining out,18.59,kanna karthik reddy
+2023-01-18,Milk and Beverages ,Liquor,21.0,kanna karthik reddy
+2023-01-18,Indian restaurants,General,40.0,Gurudatta Tej Marupudi
+2023-01-18,Movie,General,152.58,Ganesh Krishna Lakshmisetty
+2023-01-22,Indian groceries,General,19.76,Surya
+2023-01-24,Braums,General,10.69,Ganesh Krishna Lakshmisetty
+2023-01-24,Costco & similar,Water,5.36,Ganesh Krishna Lakshmisetty
+2023-01-24,Walmart,Groceries,21.82,Ganesh Krishna Lakshmisetty
+2023-01-24,Indian groceries,General,24.69,kanna karthik reddy
+2023-01-24,Indian groceries,Dining out,18.46,kanna karthik reddy
+2023-01-24,Walmart,General,7.64,kanna karthik reddy
+2023-01-24,Costco & similar,Water,5.69,kanna karthik reddy
+2023-01-24,Clothing,Clothing,4.98,Ganesh Krishna Lakshmisetty
+2023-01-24,Costco & similar,Groceries,3.86,Ganesh Krishna Lakshmisetty
+2023-01-24,Walmart,Household supplies,16.87,Ganesh Krishna Lakshmisetty
+2023-01-25,Appliances,General,21.61,Sayed Mohammad Sohail
+2023-01-25,American Fast Foods,General,16.35,Sayed Mohammad Sohail
+2023-01-26,Indian groceries,General,19.99,K Nithin
+2023-01-26,Milk and Beverages,Groceries,12.0,kanna karthik reddy
+2023-01-26,Milk and Beverages,Groceries,6.0,kanna karthik reddy
+2023-01-28,wine glasses ,Liquor,10.99,Surya
+2023-01-28,Costco & similar,Water,15.96,Surya
+2023-01-28,Costco & similar,Household supplies,68.34,Surya
+2023-01-29,Walmart,Household supplies,36.84,K Nithin
+2023-01-29,Indian groceries,Groceries,19.66,Ganesh Krishna Lakshmisetty
+2023-01-29,Movie,General,13.37,Ganesh Krishna Lakshmisetty
+2023-01-29,Milk and Beverages,Dining out,12.06,Ganesh Krishna Lakshmisetty
+2023-01-31,Indian restaurants,General,50.34,Sayed Mohammad Sohail
+2023-02-03,Indian groceries,General,33.82,K Nithin
+2023-02-06,American Fast Foods,Dining out,35.71,K Nithin
+2023-02-06,Halal Chicken,Groceries,39.0,K Nithin
+2023-02-06,Braums,General,16.29,Gurudatta Tej Marupudi
+2023-02-08,Household,General,38.26,Gurudatta Tej Marupudi
+2023-02-08,Indian groceries,General,30.88,kanna karthik reddy
+2023-02-09,Milk and Beverages,General,4.98,Gurudatta Tej Marupudi
+2023-02-09,Indian groceries,General,10.78,Surya
+2023-02-09,Costco & similar,Household supplies,65.58,Surya
+2023-02-09,water ,Water,15.96,Surya
+2023-02-09,Milk and Beverages,General,2.37,Sayed Mohammad Sohail
+2023-02-13,Milk and Beverages,General,14.14,K Nithin
+2023-02-14,Indian groceries,Groceries,26.94,Ganesh Krishna Lakshmisetty
+2023-02-14,Walmart,Groceries,25.36,Ganesh Krishna Lakshmisetty
+2023-02-14,Milk and Beverages,General,54.12,kanna karthik reddy
+2023-02-14,Walmart,Household supplies,8.85,kanna karthik reddy
+2023-02-14,American Fast Foods,Dining out,8.65,Sayed Mohammad Sohail
+2023-02-17,Braums,General,12.0,Gurudatta Tej Marupudi
+2023-02-17,Indian groceries,Groceries,16.66,Gurudatta Tej Marupudi
+2023-02-17,Indian groceries,Dining out,51.9,Gurudatta Tej Marupudi
+2023-02-17,Indian groceries,General,43.23,Gurudatta Tej Marupudi
+2023-02-17,Walmart,Household supplies,42.72,kanna karthik reddy
+2023-02-17,Halal Chicken,Groceries,24.72,kanna karthik reddy
+2023-02-17,Costco & similar,General,8.75,kanna karthik reddy
+2023-02-17,Milk and Beverages,General,7.98,kanna karthik reddy
+2023-02-17,Milk and Beverages,Liquor,10.25,kanna karthik reddy
+2023-02-17,mcd ,Dining out,3.34,Sayed Mohammad Sohail
+2023-02-17,Household,General,15.14,Ganesh Krishna Lakshmisetty
+2023-02-17,Household,TV/Phone/Internet,311.76,Ganesh Krishna Lakshmisetty
+2023-02-17,Indian restaurants,General,57.38,Ganesh Krishna Lakshmisetty
+2023-02-17,Movie,General,18.23,Sayed Mohammad Sohail
+2023-02-18,Milk and Beverages,General,8.18,K Nithin
+2023-02-21,Halal Chicken,Groceries,23.36,Ganesh Krishna Lakshmisetty
+2023-02-22,Costco & similar,Household supplies,25.34,K Nithin
+2023-02-23,Milk and Beverages ,General,44.99,Sayed Mohammad Sohail
+2023-02-24,Walmart,Groceries,24.44,Ganesh Krishna Lakshmisetty
+2023-02-24,Indian groceries,Groceries,3.99,Ganesh Krishna Lakshmisetty
+2023-02-24,Costco & similar,Water,11.96,Gurudatta Tej Marupudi
+2023-02-24,Costco & similar,Household supplies,29.36,Gurudatta Tej Marupudi
+2023-02-24,Walmart,Household supplies,23.0,Gurudatta Tej Marupudi
+2023-02-24,Indian groceries,Groceries,8.18,Gurudatta Tej Marupudi
+2023-02-25,Household,General,29.9,kanna karthik reddy
+2023-03-01,American Fast Foods,General,13.0,Gurudatta Tej Marupudi
+2023-03-01,braums ,General,11.11,kanna karthik reddy
+2023-03-01,Indian groceries,Groceries,7.37,Ganesh Krishna Lakshmisetty
+2023-03-02,Halal Chicken,Groceries,26.14,Sayed Mohammad Sohail
+2023-03-02,Braums,General,12.0,K Nithin
+2023-03-02,Indian groceries,Groceries,50.0,K Nithin
+2023-03-05,Milk and Beverages,General,7.74,K Nithin
+2023-03-05,Indian groceries,General,29.23,K Nithin
+2023-03-05,Walmart,Household supplies,54.32,K Nithin
+2023-03-06,Movie,Transportation - Other,9.75,kanna karthik reddy
+2023-03-08,Halal Chicken,Groceries,15.2,K Nithin
+2023-03-08,Cookies,General,3.24,K Nithin
+2023-03-08,Costco & similar,Groceries,4.69,K Nithin
+2023-03-08,Costco & similar,General,35.94,K Nithin
+2023-03-13,Braums,General,12.0,kanna karthik reddy
+2023-03-13,whipping cream ,Groceries,3.99,kanna karthik reddy
+2023-03-13,Indian restaurants,Groceries,19.61,kanna karthik reddy
+2023-03-13,Indian restaurants,General,14.06,kanna karthik reddy
+2023-03-14,Indian groceries,Groceries,3.1,Ganesh Krishna Lakshmisetty
+2023-03-14,Walmart,Groceries,2.94,Ganesh Krishna Lakshmisetty
+2023-03-14,Walmart,Groceries,61.65,Ganesh Krishna Lakshmisetty
+2023-03-18,Milk and Beverages,General,3.0,Gurudatta Tej Marupudi
+2023-03-18,Indian groceries,General,50.64,kanna karthik reddy
+2023-03-21,Movie,General,7.75,Sayed Mohammad Sohail
+2023-03-21,coke ,General,5.7,Sayed Mohammad Sohail
+2023-03-25,Braums,General,13.29,Gurudatta Tej Marupudi
+2023-03-25,Indian groceries,General,16.86,Gurudatta Tej Marupudi
+2023-03-29,Milk and Beverages,Groceries,7.98,Gurudatta Tej Marupudi
+2023-03-29,Halal Chicken,Groceries,34.02,Sayed Mohammad Sohail
+2023-03-29,Halal Chicken,General,28.53,Gurudatta Tej Marupudi
+2023-03-29,Milk and Beverages,Groceries,5.34,Gurudatta Tej Marupudi
+2023-03-29,Walmart,General,30.48,Gurudatta Tej Marupudi
+2023-03-29,Costco & similar,Household supplies,82.09,Surya
+2023-03-29,Indian groceries,Groceries,32.95,Ganesh Krishna Lakshmisetty
+2023-03-29,Milk and Beverages ,General,5.7,Ganesh Krishna Lakshmisetty
+2023-03-29,American Fast Foods,Dining out,8.5,K Nithin
+2023-03-29,Milk and Beverages,General,4.0,Gurudatta Tej Marupudi
+2023-03-29,American Fast Foods,Dining out,8.0,K Nithin
+2023-03-29,Chocolates,General,3.15,Ganesh Krishna Lakshmisetty
+2023-03-29,plantain chips ,Groceries,3.15,Ganesh Krishna Lakshmisetty
+2023-03-30,Braums,General,9.0,Gurudatta Tej Marupudi
+2023-04-03,Milk and Beverages,General,15.7,Sayed Mohammad Sohail
+2023-04-03,Milk and Beverages,Liquor,15.2,Sayed Mohammad Sohail
+2023-04-03,Halal Chicken,Groceries,14.2,Sayed Mohammad Sohail
+2023-04-03,Indian groceries,General,1.99,Sayed Mohammad Sohail
+2023-04-03,Indian groceries,General,27.45,Sayed Mohammad Sohail
+2023-04-03,Halal Chicken,Groceries,3.54,Sayed Mohammad Sohail
+2023-04-03,Halal Chicken,Groceries,4.48,Sayed Mohammad Sohail
+2023-04-03,Milk and Beverages,General,20.52,Ganesh Krishna Lakshmisetty
+2023-04-03,Milk and Beverages,Gifts,15.39,Ganesh Krishna Lakshmisetty
+2023-04-03,Household,Household supplies,3.0,Ganesh Krishna Lakshmisetty
+2023-04-09,Indian groceries,Groceries,17.8,Gurudatta Tej Marupudi
+2023-04-09,Indian groceries,Groceries,2.99,Gurudatta Tej Marupudi
+2023-04-09,Halal Chicken,Groceries,18.92,Surya
+2023-04-11,Braums,General,7.75,Gurudatta Tej Marupudi
+2023-04-11,Braums,General,9.0,Surya
+2023-04-11,Milk and Beverages,General,3.0,Surya
+2023-04-11,American Fast Foods,General,6.46,Gurudatta Tej Marupudi
+2023-04-11,Groceries,Groceries,80.72,Gurudatta Tej Marupudi
+2023-04-12,Costco & similar,Groceries,4.61,K Nithin
+2023-04-12,Walmart,General,2.0,K Nithin
+2023-04-12,Costco & similar,Groceries,3.29,K Nithin
+2023-04-12,American Fast Foods,Groceries,4.0,K Nithin
+2023-04-12,Household,General,5.25,K Nithin
+2023-04-16,Milk and Beverages,Dining out,5.59,K Nithin
+2023-04-17,Halal Chicken,Groceries,20.96,Surya
+2023-04-18,Costco & similar,Household supplies,33.31,Gurudatta Tej Marupudi
+2023-04-18,Walmart,General,5.62,Gurudatta Tej Marupudi
+2023-04-18,Indian groceries,Dining out,6.0,Gurudatta Tej Marupudi
+2023-04-18,Indian groceries,General,9.21,Gurudatta Tej Marupudi
+2023-04-19,American Fast Foods,Dining out,3.0,K Nithin
+2023-04-20,Household,TV/Phone/Internet,46.91,K Nithin
+2023-04-20,Braums,General,13.29,Gurudatta Tej Marupudi
+2023-04-20,Clothing,General,7.98,Gurudatta Tej Marupudi
+2023-04-21,Indian groceries,General,9.47,kanna karthik reddy
+2023-04-21,Braums,General,5.81,Surya
+2023-04-22,Beverages,Dining out,16.3,Gurudatta Tej Marupudi
+2023-04-24,Movie,General,48.72,Ganesh Krishna Lakshmisetty
+2023-04-24,Indian restaurants,General,35.0,Sayed Mohammad Sohail
+2023-04-26,Movie,General,11.24,K Nithin
+2023-04-26,American Fast Foods,Dining out,8.65,K Nithin
+2023-04-26,Uber_and_Lyft,Transportation - Other,40.0,K Nithin
+2023-04-30,Walmart,Groceries,37.18,Ganesh Krishna Lakshmisetty
+2023-04-30,Milk and Beverages,General,3.01,Ganesh Krishna Lakshmisetty
+2023-04-30,Household,General,2.99,kanna karthik reddy
+2023-04-30,salt ,Groceries,1.29,kanna karthik reddy
+2023-04-30,Indian groceries,General,7.99,kanna karthik reddy
+2023-04-30,Costco & similar,Groceries,3.29,kanna karthik reddy
+2023-04-30,Indian restaurants,General,4.99,kanna karthik reddy
+2023-04-30,spices ,General,1.0,kanna karthik reddy
+2023-04-30,Indian groceries,Groceries,3.99,kanna karthik reddy
+2023-04-30,Household,General,1.25,kanna karthik reddy
+2023-04-30,Costco & similar,Household supplies,3.75,kanna karthik reddy
+2023-04-30,wally tomato ,Groceries,4.03,kanna karthik reddy
+2023-04-30,Indian groceries,Groceries,1.0,kanna karthik reddy
+2023-04-30,mushroom ,General,3.18,kanna karthik reddy
+2023-04-30,Trips and Other Activities,Liquor,2.98,kanna karthik reddy
+2023-04-30,Walmart,Groceries,5.08,kanna karthik reddy
+2023-05-01,Beverages,General,15.16,kanna karthik reddy
+2023-05-02,American Fast Foods,General,16.35,Sayed Mohammad Sohail
+2023-05-02,Indian groceries,General,19.99,Surya
+2023-05-02,Indian groceries,Groceries,15.57,Gurudatta Tej Marupudi
+2023-05-03,Walmart,Household supplies,31.94,Gurudatta Tej Marupudi
+2023-05-03,Indian groceries,General,10.5,Gurudatta Tej Marupudi
+2023-05-03,Costco & similar,Household supplies,6.15,Gurudatta Tej Marupudi
+2023-05-03,Halal Chicken,General,15.57,Gurudatta Tej Marupudi
+2023-05-03,Household,General,20.99,Gurudatta Tej Marupudi
+2023-05-03,Milk and Beverages,Groceries,5.62,Gurudatta Tej Marupudi
+2023-05-03,Braums,General,13.87,Surya
+2023-05-09,Braums,General,9.69,Ganesh Krishna Lakshmisetty
+2023-05-09,Braums,Groceries,9.3,Ganesh Krishna Lakshmisetty
+2023-05-09,Walmart,Household supplies,24.07,K Nithin
+2023-05-09,Indian groceries,General,1.73,K Nithin
+2023-05-09,Indian groceries,General,2.08,K Nithin
+2023-05-09,Costco & similar,Groceries,1.26,K Nithin
+2023-05-09,Costco & similar,Groceries,12.22,K Nithin
+2023-05-09,Household,General,1.98,K Nithin
+2023-05-11,Bath & Body Works,General,25.87,Ganesh Krishna Lakshmisetty
+2023-05-11,Costco & similar,Groceries,1.57,Ganesh Krishna Lakshmisetty
+2023-05-11,Halal Chicken,Groceries,28.61,Ganesh Krishna Lakshmisetty
+2023-05-11,Gas,Gas/fuel,34.35,Ganesh Krishna Lakshmisetty
+2023-05-12,Gas,Clothing,11.24,Sayed Mohammad Sohail
+2023-05-12,Gas,Clothing,2.23,Sayed Mohammad Sohail
+2023-05-13,Indian restaurants,General,43.72,K Nithin
+2023-05-13,Indian groceries,Groceries,33.5,Gurudatta Tej Marupudi
+2023-05-13,Indian groceries,Groceries,10.3,Gurudatta Tej Marupudi
+2023-05-13,American Fast Foods,Dining out,17.3,K Nithin
+2023-05-13,Indian groceries,Groceries,13.08,Sayed Mohammad Sohail
+2023-05-13,Indian groceries,General,27.74,kanna karthik reddy
+2023-05-13,Indian groceries,General,3.34,kanna karthik reddy
+2023-05-13,Gas,General,1.72,kanna karthik reddy
+2023-05-13,Walmart,General,11.1,kanna karthik reddy
+2023-05-13,Bath & Body Works,General,11.9,Gurudatta Tej Marupudi
+2023-05-13,Indian groceries,General,14.04,kanna karthik reddy
+2023-05-14,Braums,General,4.69,Surya
+2023-08-01,Walmart,Household supplies,31.82,Gurudatta Tej Marupudi
+2023-08-01,Uber_and_Lyft,Taxi,66.0,Gurudatta Tej Marupudi
+2023-08-06,Walmart,Groceries,52.46,Gurudatta Tej Marupudi
+2023-08-07,Indian groceries,General,7.5,Gurudatta Tej Marupudi
+2023-08-07,Milk and Beverages,Liquor,15.48,Gurudatta Tej Marupudi
+2023-08-07,Walmart,Household supplies,30.02,Saimanassagar (removed)
+2023-08-07,Indian restaurants,General,81.13,Surya
+2023-08-11,Indian groceries,General,55.98,K Nithin
+2023-08-11,Household,TV/Phone/Internet,140.73,K Nithin
+2023-08-11,Trips and Other Activities,General,47.63,K Nithin
+2023-08-11,Indian groceries,Groceries,55.0,K Nithin
+2023-08-11,kroger ,Groceries,17.01,Saimanassagar (removed)
+2023-08-11,Household,General,9.91,Sai Gopal (removed)
+2023-08-11,Halal Chicken,Groceries,13.3,Saimanassagar (removed)
+2023-08-12,Braums,General,9.38,Gurudatta Tej Marupudi
+2023-08-14,Braums,General,9.38,Ganesh Krishna Lakshmisetty
+2023-08-15,Indian groceries,Dining out,9.0,Ganesh Krishna Lakshmisetty
+2023-08-15,groceries ,Groceries,64.0,Ganesh Krishna Lakshmisetty
+2023-08-15,Movie,General,23.8,Surya
+2023-08-15,Uber_and_Lyft,Transportation - Other,26.37,Surya
+2023-08-15,Walmart,General,50.0,Saimanassagar (removed)
+2023-08-16,American Fast Foods,General,6.59,Sai Gopal (removed)
+2023-08-17,Indian groceries,Groceries,35.73,Gurudatta Tej Marupudi
+2023-08-18,Costco & similar,Groceries,17.98,kanna karthik reddy
+2023-08-18,Indian groceries,General,41.98,kanna karthik reddy
+2023-08-21,Costco & similar,Groceries,16.47,kanna karthik reddy
+2023-08-21,Indian groceries,Groceries,16.99,kanna karthik reddy
+2023-08-22,braums & milk ,Groceries,13.37,Saimanassagar (removed)
+2023-08-22,Costco & similar,General,51.72,K Nithin
+2023-08-24,Indian restaurants,General,43.8,Surya
+2023-08-25,Indian groceries,General,19.0,K Nithin
+2023-08-25,Costco & similar,General,11.58,K Nithin
+2023-08-25,Walmart,Groceries,17.1,Sayed Mohammad Sohail
+2023-08-25,Walmart,Groceries,13.66,Sayed Mohammad Sohail
+2023-08-25,chips kroger,Groceries,7.96,Surya
+2023-08-25,Indian groceries,General,3.96,Surya
+2023-08-25,Milk and Beverages,Groceries,3.39,Surya
+2023-08-25,Milk and Beverages,Dining out,2.89,Surya
+2023-08-25,Walmart,General,4.12,Surya
+2023-08-25,Milk and Beverages,General,3.99,Surya
+2023-08-25,Halal Chicken,Groceries,48.48,Ganesh Krishna Lakshmisetty
+2023-08-25,Indian groceries,General,7.99,Ganesh Krishna Lakshmisetty
+2023-08-29,biryani 1,Dining out,12.87,Ganesh Krishna Lakshmisetty
+2023-08-29,biryani party,Dining out,15.86,Ganesh Krishna Lakshmisetty
+2023-08-29,Indian groceries,Groceries,3.99,Sayed Mohammad Sohail
+2023-08-29,Indian groceries,General,7.99,Sayed Mohammad Sohail
+2023-08-29,Indian groceries,General,15.98,Sayed Mohammad Sohail
+2023-08-30,Milk and Beverages,Gifts,16.99,kanna karthik reddy
+2023-08-30,Costco & similar,Groceries,4.48,kanna karthik reddy
+2023-09-02,Indian restaurants,Dining out,15.45,Sayed Mohammad Sohail
+2023-09-05,Costco & similar,General,35.89,K Nithin
+2023-09-05,Braums,General,14.07,Sayed Mohammad Sohail
+2023-09-05,Indian groceries,Groceries,15.09,Gurudatta Tej Marupudi
+2023-09-05,Costco & similar,Groceries,33.87,Gurudatta Tej Marupudi
+2023-09-05,Costco & similar,Groceries,3.09,Gurudatta Tej Marupudi
+2023-09-05,Milk and Beverages,Dining out,4.0,Sayed Mohammad Sohail
+2023-09-05,Milk and Beverages,Dining out,8.0,Gurudatta Tej Marupudi
+2023-09-05,Indian restaurants,General,21.0,Gurudatta Tej Marupudi
+2023-09-07,Household,TV/Phone/Internet,93.0,K Nithin
+2023-09-09,Indian restaurants,Dining out,9.73,Sayed Mohammad Sohail
+2023-09-09,Indian groceries,General,2.35,Sayed Mohammad Sohail
+2023-09-09,Indian groceries,General,15.98,Sayed Mohammad Sohail
+2023-09-09,Halal Chicken,Groceries,4.88,Sayed Mohammad Sohail
+2023-09-09,American Fast Foods,General,2.99,Sayed Mohammad Sohail
+2023-09-09,Indian groceries,General,6.88,Gurudatta Tej Marupudi
+2023-09-09,Walmart,Household supplies,16.95,Gurudatta Tej Marupudi
+2023-09-13,Milk and Beverages,Groceries,8.01,kanna karthik reddy
+2023-09-15,Costco & similar,Groceries,19.21,Gurudatta Tej Marupudi
+2023-09-15,Halal Chicken,Groceries,10.33,K Nithin
+2023-09-15,Costco & similar,Water,5.73,kanna karthik reddy
+2023-09-15,Indian groceries,General,31.99,kanna karthik reddy
+2023-09-16,Uber_and_Lyft,Taxi,35.0,Gurudatta Tej Marupudi
+2023-09-19,Costco & similar,General,27.4,Sayed Mohammad Sohail
+2023-09-19,Indian groceries,General,16.83,kanna karthik reddy
+2023-09-19,Braums,General,15.65,kanna karthik reddy
+2023-09-19,Indian groceries,General,70.43,Ganesh Krishna Lakshmisetty
+2023-09-19,Costco & similar,Groceries,35.6,Ganesh Krishna Lakshmisetty
+2023-09-21,Indian groceries,General,5.87,Surya
+2023-09-21,Indian groceries,General,16.44,K Nithin
+2023-09-21,Indian restaurants,Dining out,16.56,Sayed Mohammad Sohail
+2023-09-25,Milk and Beverages,Gifts,21.99,kanna karthik reddy
+2023-09-25,Costco & similar,Groceries,10.93,Surya
+2023-09-26,Walmart,Household supplies,10.72,Gurudatta Tej Marupudi
+2023-09-26,Braums,General,12.0,kanna karthik reddy
+2023-09-26,Costco & similar,Groceries,3.49,kanna karthik reddy
+2023-09-26,Indian groceries,Groceries,16.99,Surya
+2023-09-28,Indian groceries,General,9.97,Sayed Mohammad Sohail
+2023-09-28,water ,Water,11.98,kanna karthik reddy
+2023-09-28,American Fast Foods,Dining out,16.0,kanna karthik reddy
+2023-09-28,American Fast Foods,Dining out,2.21,kanna karthik reddy
+2023-10-01,Indian groceries,Groceries,35.52,Sayed Mohammad Sohail
+2023-10-02,American Fast Foods,General,6.85,Gurudatta Tej Marupudi
+2023-10-02,Movie,General,35.0,K Nithin
+2023-10-02,Movie,General,35.0,Saimanassagar (removed)
+2023-10-03,Costco & similar,Groceries,5.9,Surya
+2023-10-04,Halal Chicken,Groceries,41.14,Sayed Mohammad Sohail
+2023-10-04,Indian groceries,General,13.98,Sayed Mohammad Sohail
+2023-10-05,Costco & similar,General,62.7,kanna karthik reddy
+2023-10-05,Indian groceries,General,46.51,K Nithin
+2023-10-06,Movie,General,13.0,kanna karthik reddy
+2023-10-06,American Fast Foods,General,6.98,Sayed Mohammad Sohail
+2023-10-06,American Fast Foods,General,5.9,Sayed Mohammad Sohail
+2023-10-09,Walmart,Household supplies,30.8,Gurudatta Tej Marupudi
+2023-10-10,Walmart,Household supplies,33.56,kanna karthik reddy
+2023-10-10,braums ,General,9.38,Sayed Mohammad Sohail
+2023-10-10,Indian groceries,General,27.91,K Nithin
+2023-10-10,coke ,General,15.98,Sayed Mohammad Sohail
+2023-10-10,kroger ,Groceries,11.32,Sayed Mohammad Sohail
+2023-10-10,Indian groceries,General,4.33,Sayed Mohammad Sohail
+2023-10-11,Indian restaurants,General,30.0,kanna karthik reddy
+2023-10-12,Indian groceries,General,15.98,Sayed Mohammad Sohail
+2023-10-16,Indian restaurants,Groceries,11.0,K Nithin
+2023-10-16,sams ,General,60.55,Ganesh Krishna Lakshmisetty
+2023-10-17,Indian groceries,General,2.75,Sayed Mohammad Sohail
+2023-10-17,Indian groceries,General,5.75,Sayed Mohammad Sohail
+2023-10-17,Uber_and_Lyft,Transportation - Other,25.0,Sayed Mohammad Sohail
+2023-10-18,Braums,General,9.38,kanna karthik reddy
+2023-10-20,Walmart,General,31.2,Gurudatta Tej Marupudi
+2023-10-20,పిస్తా హౌస్ ,General,19.49,Gurudatta Tej Marupudi
+2023-10-20,Indian groceries,General,35.89,Gurudatta Tej Marupudi
+2023-10-24,Indian groceries,General,44.6,kanna karthik reddy
+2023-10-24,Walmart,Household supplies,51.8,Ganesh Krishna Lakshmisetty
+2023-10-25,Indian restaurants,General,12.86,K Nithin
+2023-10-25,Costco & similar,General,15.0,K Nithin
+2023-10-26,Braums,General,12.0,Saimanassagar (removed)
+2023-10-26,Indian groceries,General,2.0,kanna karthik reddy
+2023-10-26,Indian groceries,Dining out,8.49,K Nithin
+2023-10-30,Walmart,Household supplies,29.37,Gurudatta Tej Marupudi
+2023-10-31,Costco & similar,Groceries,20.77,kanna karthik reddy
+2023-11-01,Walmart,Household supplies,38.6,K Nithin
+2023-11-02,Costco & similar,Household supplies,40.6,Saimanassagar (removed)
+2023-11-02,Indian groceries,General,32.28,Saimanassagar (removed)
+2023-11-02,American Fast Foods,Dining out,23.52,K Nithin
+2023-11-02,Walmart,General,17.37,Sayed Mohammad Sohail
+2023-11-03,Indian groceries,General,16.0,Surya
+2023-11-03,Walmart,Household supplies,13.44,Gurudatta Tej Marupudi
+2023-11-09,Costco & similar,Household supplies,72.53,Gurudatta Tej Marupudi
+2023-11-11,Braums,General,6.0,Gurudatta Tej Marupudi
+2023-11-11,Walmart,Groceries,37.28,Ganesh Krishna Lakshmisetty
+2023-11-15,Household,TV/Phone/Internet,5.49,Gurudatta Tej Marupudi
+2023-11-16,veggies only ,Groceries,20.08,Sayed Mohammad Sohail
+2023-11-16,Indian groceries,General,35.8,Surya
+2023-11-16,Halal Chicken,General,13.81,Sayed Mohammad Sohail
+2023-11-20,braums ,General,12.0,Sayed Mohammad Sohail
+2023-11-21,Walmart,Household supplies,23.26,Sayed Mohammad Sohail
+2023-11-21,Walmart,Groceries,3.85,Sayed Mohammad Sohail
+2023-11-21,Milk and Beverages,Groceries,4.44,Sayed Mohammad Sohail
+2023-11-24,Uber_and_Lyft,Transportation - Other,34.0,Sayed Mohammad Sohail
+2023-11-26,Costco & similar,General,57.99,kanna karthik reddy
+2023-11-26,Uber_and_Lyft,Transportation - Other,34.0,Sayed Mohammad Sohail
+2023-11-26,Indian groceries,General,18.48,K Nithin
+2023-11-29,amazon ,General,6.49,Sayed Mohammad Sohail
+2023-11-30,American Fast Foods,Dining out,16.22,Gurudatta Tej Marupudi
+2023-11-30,Gas,General,13.0,K Nithin
+2023-11-30,Indian groceries,Groceries,98.0,Sayed Mohammad Sohail
+2023-12-01,Milk and Beverages,Liquor,12.78,Gurudatta Tej Marupudi
+2023-12-02,Household,Household supplies,7.35,Surya
+2023-12-03,Movie,General,77.87,Ganesh Krishna Lakshmisetty
+2023-12-03,Uber_and_Lyft,Taxi,19.6,Gurudatta Tej Marupudi
+2023-12-03,Uber_and_Lyft,Taxi,29.21,Surya
+2023-12-04,Milk and Beverages,General,22.07,Saimanassagar (removed)
+2023-12-04,Costco & similar,Household supplies,12.2,Gurudatta Tej Marupudi
+2023-12-05,Walmart,Household supplies,12.0,Gurudatta Tej Marupudi
+2023-12-05,Unkown,General,16.36,Gurudatta Tej Marupudi
+2023-12-06,Indian groceries,General,14.03,kanna karthik reddy
+2023-12-07,Halal Chicken,General,19.37,Gurudatta Tej Marupudi
+2023-12-07,Indian groceries,Dining out,7.0,kanna karthik reddy
+2023-12-08,Indian groceries,General,22.0,Saimanassagar (removed)
+2023-12-08,Indian groceries,Groceries,15.96,Saimanassagar (removed)
+2023-12-09,Costco & similar,Groceries,9.02,Ganesh Krishna Lakshmisetty
+2023-12-09,Walmart,Groceries,28.4,Ganesh Krishna Lakshmisetty
+2023-12-10,Indian groceries,General,3.98,Ganesh Krishna Lakshmisetty
+2023-12-12,Halal Chicken,Groceries,23.0,Gurudatta Tej Marupudi
+2024-02-02,Halal Chicken,Groceries,40.67,Gurudatta Tej Marupudi
+2024-02-03,Walmart,Household supplies,44.37,Gurudatta Tej Marupudi
+2024-02-07,Walmart,Household supplies,27.89,Sayed Mohammad Sohail
+2024-02-07,Indian groceries,Groceries,12.48,Sayed Mohammad Sohail
+2024-02-07,Indian groceries,General,42.99,Sayed Mohammad Sohail
+2024-02-07,Walmart,Household supplies,42.57,Ganesh Krishna Lakshmisetty
+2024-02-08,Indian groceries,Groceries,42.5,K Nithin
+2024-02-15,Walmart,Household supplies,13.44,kanna karthik reddy
+2024-02-17,Costco & similar,Household supplies,34.0,Gurudatta Tej Marupudi
+2024-02-20,Indian groceries,General,28.5,Gurudatta Tej Marupudi
+2024-02-20,Walmart,Household supplies,15.32,Surya
+2024-02-22,Walmart,Household supplies,34.0,kanna karthik reddy
+2024-02-22,Halal Chicken,Groceries,12.21,Sayed Mohammad Sohail
+2024-02-22,Indian groceries,General,29.27,Sayed Mohammad Sohail
+2024-02-22,Indian groceries,General,7.99,Sayed Mohammad Sohail
+2024-02-23,Walmart,Household supplies,8.0,K Nithin
+2024-02-23,Costco & similar,Household supplies,41.72,K Nithin
+2024-02-26,Walmart,Groceries,12.47,Gurudatta Tej Marupudi
+2024-02-28,Halal Chicken,General,10.66,Sayed Mohammad Sohail
+2024-02-28,Walmart,Household supplies,44.91,Gurudatta Tej Marupudi
+2024-02-28,Indian groceries,General,24.64,Ganesh Krishna Lakshmisetty
+2024-02-28,American Fast Foods,Dining out,10.0,Ganesh Krishna Lakshmisetty
+2024-02-28,Indian groceries,General,9.98,kanna karthik reddy
+2024-02-29,Indian groceries,General,31.98,Surya
+2024-02-29,Halal Chicken,Groceries,4.11,Sayed Mohammad Sohail
+2024-03-01,Walmart,General,35.26,kanna karthik reddy
+2024-03-05,Gas,General,20.0,Gurudatta Tej Marupudi
+2024-03-05,Costco & similar,Water,11.94,kanna karthik reddy
+2024-03-06,Gas,General,2.97,Sayed Mohammad Sohail
+2024-03-06,Indian groceries,Dining out,8.99,Sayed Mohammad Sohail
+2024-03-06,Indian restaurants,Dining out,27.0,Sayed Mohammad Sohail
+2024-03-06,Movie,General,18.4,Sayed Mohammad Sohail
+2024-03-07,Walmart,Household supplies,32.63,Surya
+2024-03-09,Movie,General,15.0,Gurudatta Tej Marupudi
+2024-03-09,Indian restaurants,General,16.23,Sayed Mohammad Sohail
+2024-03-09,American Fast Foods,Dining out,21.63,Ganesh Krishna Lakshmisetty
+2024-03-09,Halal Chicken,Groceries,7.21,Ganesh Krishna Lakshmisetty
+2024-03-11,Movie,Transportation - Other,5.85,kanna karthik reddy
+2024-03-12,Indian groceries,General,25.76,K Nithin
+2024-03-12,Costco & similar,General,36.82,Gurudatta Tej Marupudi
+2024-03-18,Walmart,Household supplies,55.0,Gurudatta Tej Marupudi
+2024-03-18,Costco & similar,Water,20.98,Gurudatta Tej Marupudi
+2024-03-18,Gas,Groceries,8.0,Gurudatta Tej Marupudi
+2024-03-18,Halal Chicken,Groceries,12.39,Ganesh Krishna Lakshmisetty
+2024-03-21,Indian restaurants,General,17.0,K Nithin
+2024-03-22,Halal Chicken,Groceries,50.81,Ganesh Krishna Lakshmisetty
+2024-03-25,Indian groceries,General,39.47,K Nithin
+2024-03-26,Walmart,Household supplies,28.94,Sayed Mohammad Sohail
+2024-03-27,Indian groceries,Groceries,57.7,Surya
+2024-03-27,Indian restaurants,General,20.0,Surya
+2024-03-27,Walmart,Household supplies,36.82,Surya
+2024-03-27,Gas,Groceries,5.0,Surya
+2024-03-27,Movie,General,10.0,Ganesh Krishna Lakshmisetty
+2024-03-29,Movie,General,58.2,Ganesh Krishna Lakshmisetty
+2024-04-01,Indian restaurants,General,42.0,K Nithin
+2024-04-02,Indian restaurants,General,32.0,Gurudatta Tej Marupudi
+2024-04-02,Indian groceries,Groceries,17.34,Gurudatta Tej Marupudi
+2024-04-04,Walmart,General,24.11,Gurudatta Tej Marupudi
+2024-04-04,Gas,Gifts,25.0,Gurudatta Tej Marupudi
+2024-04-04,Costco & similar,Household supplies,16.8,Gurudatta Tej Marupudi
+2024-04-06,Indian restaurants,General,29.8,Gurudatta Tej Marupudi
+2024-04-10,Indian restaurants,General,10.15,Gurudatta Tej Marupudi
+2024-04-10,Indian groceries,General,8.98,kanna karthik reddy
+2024-04-13,Indian restaurants,Dining out,28.0,Sayed Mohammad Sohail
+2024-04-14,Indian restaurants,General,27.56,Sayed Mohammad Sohail
+2024-04-14,Gas,General,2.49,Sayed Mohammad Sohail
+2024-04-15,coconut ,Groceries,3.99,Sayed Mohammad Sohail
+2024-04-15,indopak,General,52.09,Sayed Mohammad Sohail
+2024-04-17,Indian restaurants,General,27.96,Ganesh Krishna Lakshmisetty
+2024-04-17,Indian restaurants,Dining out,8.96,Sayed Mohammad Sohail
+2024-04-18,Walmart,Groceries,12.1,Surya
+2024-04-18,Walmart,Household supplies,67.0,kanna karthik reddy
+2024-04-18,Walmart,Groceries,19.96,kanna karthik reddy
+2024-04-18,Costco & similar,Groceries,16.92,kanna karthik reddy
+2024-04-19,Indian groceries,General,12.18,kanna karthik reddy
+2024-04-21,Halal Chicken,General,17.36,Sayed Mohammad Sohail
+2024-04-21,Indian groceries,Groceries,14.99,Sayed Mohammad Sohail
+2024-04-25,Halal Chicken,General,13.54,Gurudatta Tej Marupudi
+2024-04-27,Halal Chicken,Groceries,15.42,Sayed Mohammad Sohail
+2024-04-27,Indian groceries,General,8.99,Sayed Mohammad Sohail
+2024-04-27,Braums,General,11.0,Surya
+2024-04-27,American Fast Foods,General,17.3,Ganesh Krishna Lakshmisetty
+2024-04-29,Costco & similar,Household supplies,15.33,kanna karthik reddy
+2024-04-30,Indian groceries,Groceries,34.78,Sayed Mohammad Sohail
+2024-05-01,Household,General,24.97,kanna karthik reddy
+2024-05-01,Household,Household supplies,23.0,Gurudatta Tej Marupudi
+2024-05-01,Costco & similar,General,11.0,Gurudatta Tej Marupudi
+2024-05-01,Walmart,Household supplies,25.5,kanna karthik reddy
+2024-05-01,Walmart,Household supplies,40.63,Surya
